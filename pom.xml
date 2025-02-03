@@ -224,7 +224,7 @@
                             <port>8080</port>
                         </ports>
                         <environment>
-                            <SPRING_PROFILES_ACTIVE>dev</SPRING_PROFILES_ACTIVE>
+                            <SPRING_PROFILES_ACTIVE>prod</SPRING_PROFILES_ACTIVE>
                         </environment>
                     </container>
                 </configuration>
